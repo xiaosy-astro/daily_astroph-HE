@@ -43,3 +43,13 @@
 ### [Optical and X-ray timing analysis of the 2018-2020 outburst and rebrightening of the black-hole transient MAXI J1820+070](https://arxiv.org/pdf/2504.06001v1)
 
 > 我们报告了对黑洞暂现源 MAXI J1820+070 在 2018–2020 年爆发期间进行的多波段（光学和 X 射线）及多时间尺度（从数月到十分之一秒）变化的全面分析结果。在第一次爆发事件中，对光学光变的详细分析显示出一个随时间演化并最终稳定下来的周期性信号，其频率为 1.4517(1) 次/天（比轨道周期长约 0.5%）。这种超轨道调制（super-orbital modulation）也在源从低硬态过渡到高软态后不久的几天内于 X 射线波段中被观察到。此外，我们在源处于低硬态的三个不同时间点检测到了与 X 射线中某些准周期振荡（QPOs）相对应的光学 QPOs。在两个时间点，观察到的光学 QPO 的中心频率与最显著的 X 射线 QPO 频率的一半相一致。如果最低调制频率是光学中观测到的频率，那么 MAXI J1820+070 的特征进动频率要低于从 X 射线“基频”QPO 推断出的频率。在假设 QPOs 来源于 Lense-Thirring 进动的前提下，我们计算了在“基频”由光学辐射跟踪的情形下黑洞的自旋。结果表明该黑洞自旋较慢，其自旋参数 ≲ 0.15。在 QPO 消失后观测到的光学和 X 射线超轨道调制可能是由于一个标准内盘（截断于几个引力半径处）对外盘进行自辐照（self-irradiation）所触发的。
+
+## April 11
+### [Revisiting X-ray polarization of the shell of Cassiopeia A using spectropolarimetric analysis](https://arxiv.org/pdf/2504.07051v1)
+
+> X射线同步加速辐射被认为具有高度偏振性。得益于成像X射线偏振观测卫星（IXPE），我们现在可以评估超新星遗迹（SNRs）等天体的X射线偏振度。本文结合IXPE数据和高分辨率的Chandra观测，对超新星遗迹仙后座A（Cassiopeia A, 简称Cas A）进行空间分辨的光谱偏振分析。我们聚焦于3–6 keV能段内壳层附近以非热同步加速辐射为主导的区域。通过结合IXPE的偏振灵敏度与Chandra更高的空间与光谱分辨率，我们在遗迹中约束了局部的偏振度（PD）和偏振角（PA）。我们的分析结果显示，局部PD值在10%至26%之间变化，呈现出显著的区域性差异，反映出Cas A中复杂的磁场形态。偏振矢量表明磁场主要呈径向分布，这与以往研究结果一致。借助Chandra数据改进了对热辐射成分的建模，相较于早期仅使用IXPE数据的分析，我们得到了更高的PD值和相较标准IXPEOBSSIM分析更加显著的偏振探测。最后，我们还基于测得的光子谱指数与PD，假设壳层磁场中存在各向同性的涨落，估算了磁场湍流度{\eta}。
+
+### [Evolution of the Comptonizing medium of the black-hole candidate Swift J1727.8–1613 along the hard to hard-intermediate state transition using NICER](https://arxiv.org/pdf/2504.06705v1)
+
+> 我们利用时间相关康普顿化模型 vkompth，结合 NICER 对硬态与硬-中间态中的 C 型准周期振荡（QPO）观测数据，对黑洞X射线双星 Swift J1727.8$-$1613 中康普顿散射介质的性质进行了分析。在该源于 2023年爆发 期间，我们测量了 QPO 在 45 次观测中的 rms 振幅与相位延迟（phase lags），对应 QPO 频率 $\nu_{\rm QPO}$ 从约 0.3 Hz 演化到 约 7 Hz 的过程。通过同时拟合源的时间平均能谱、QPO 的 rms 能谱与相位延迟能谱，我们追踪了盘面与日冕参数的演化过程。在 $\nu_{\rm QPO} = 0.34$ Hz 时，QPO 显示出 硬延迟（hard lag），即高能（10 keV）光子比低能（0.5 keV）光子延迟约 0.5弧度。随着 $\nu_{\rm QPO}$ 增大，相同能段之间的相位延迟逐渐减小，在 $\sim 1.2$ Hz 附近趋近于零，随后反转为 软延迟（soft lag），在 $\nu_{\rm QPO} \sim 7$ Hz 时达到约 -1.1弧度。最初，吸积盘的内截断半径为约 30–40 $R_g$（假设黑洞质量为10个太阳质量）。随着 QPO 频率升高，该截断半径逐渐减小至约 10 $R_g$。同时，模型显示最初存在两个日冕区域，尺寸分别约为 $6.5 \times 10^3$ km 与 $2 \times 10^3$ km，覆盖在吸积盘上并由盘的不同区域照亮。随着 QPO 频率升高，这两个日冕区逐渐缩小，在 $\nu_{\rm QPO} = 2.5$ Hz 时都达到约 $2 \times 10^3$ km。在一段数据缺口之后，其中一个日冕区域再次扩展，尺寸最大达到 $2 \times 10^4$ km。我们结合同时期的射电观测，尝试将日冕尺寸的演化与喷流的活动性联系起来，探讨了日冕与喷流之间可能存在的耦合关系。
+
