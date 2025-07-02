@@ -2,3 +2,5 @@
 ### [A Comprehensive Statistical Study of Gamma-Ray Bursts and Supernovae Association](https://arxiv.org/pdf/2506.22914v1)
 > 自从低光度长伽马射线暴 GRB 980425 被确认与超新星 SN 1998bw 相关联以来，长伽马射线暴（LGRBs）与核心坍缩型超新星（SNe）之间的关联已被广泛确立。然而，对若干定位精确、低红移的 LGRB 进行的长期监测却提供了强有力的证据，显示它们并未伴随超新星的出现。尤其值得注意的是，两个长暴事件——GRB 211211A 和 GRB 230307A——呈现出与紧致双星并合产生的并合新星（kilonova）辐射特征相一致的迹象，这表明至少部分长伽马暴可能源于不同于核心坍缩超新星的祖先天体。
 本研究通过比较分析两类 LGRB 样本（即有超新星关联与无超新星关联的 LGRBs），以探索可能揭示其本质性差异的祖先特征。研究内容涵盖其爆发初期辐射特征、宿主星系环境以及事件发生率等多个方面。虽然两类样本在大多数观测属性上存在较大重叠，但在事件发生率方面却显示出显著差异：无超新星关联的 LGRBs 的发生率与星系的恒星形成率一致，而与超新星相关联的 LGRBs 则明显偏离。这一发现暗示，不伴随超新星的 LGRBs 可能构成一个具有不同祖先天体的独立子类。
+
+### [XRISM View of the Newly Detected Galactic Source MAXI J1744-294](https://arxiv.org/pdf/2506.22964v1)
