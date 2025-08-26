@@ -30,6 +30,17 @@ X射线热辐射是中子星和黑洞X射线双星系统的固有特征。在这
 
 ## Aug 12
 
-##[X-ray and radio polarimetry of the neutron star low mass X-ray binary GX 13+1](https://arxiv.org/pdf/2508.05763v1)
+### [X-ray and radio polarimetry of the neutron star low mass X-ray binary GX 13+1](https://arxiv.org/pdf/2508.05763v1)
 
 我们利用成像X射线偏振探测器（IXPE）和甚大阵列射电望远镜（VLA），对中子星（NS）低质量X射线双星（LMXB）GX 13+1 进行了X射线与射电偏振研究。同时的中子星内部组成探测器（NICER）观测显示，在IXPE观测期间，该源处于Z型状态的部分分支，并在硬度-强度图中表现出中等程度的变化。该源在光变曲线中出现X射线“dip”现象，并且在dip与非dip状态之间可能存在偏振摆动的迹象。X射线光谱–偏振分析结果表明，源的几何结构包括一个代表较软盘辐射的吸积盘成分，以及一个代表来自边界层（BL）或展布层（SL）较硬辐射的黑体成分。我们结合X射线与射电偏振结果，探讨了GX 13+1 的几何结构。
+
+## Aug 26
+
+### [Probing the emission geometry of the X-ray pulsar 2S 1417−624 during a weak outburst with NICER, IXPE, and NuSTAR](https://arxiv.org/pdf/2508.16417v1)
+
+我们报道了在 2025 年爆发期间，对瞬变 X 射线脉冲星 2S~1417$-$624 进行的一次多任务观测活动的结果，所用数据来自 NICER、IXPE 和 NuSTAR。
+基于 NICER 和 NuSTAR 的相位平均及相位分辨光谱分析表明，一个带高能截断的典型幂律模型能够很好地刻画该源的宽带光谱。然而，若干光谱参数在脉冲相位上表现出明显且系统性的调制，表明在中子星自转过程中，发射等离子体的物理条件发生变化。
+
+特别地，IXPE 首次对该源进行了偏振测量，得到相位平均偏振度为 $3.3 \pm 1.7%$，偏振角为 ${18}^{\circ} \pm {15}^{\circ}$，均在 $1\sigma$ 置信水平下。利用旋转矢量模型拟合得到磁倾角 $\theta = 64_{-26}^{+17}$ 度，表明其磁场几何高度倾斜，可能接近准正交构型。
+
+综上，这些结果展示了显著的相位依赖性光谱与偏振变化，为限制该瞬变 X 射线脉冲星吸积区的几何结构和辐射机制提供了重要约束。
