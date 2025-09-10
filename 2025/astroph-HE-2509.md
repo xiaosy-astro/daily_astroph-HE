@@ -30,3 +30,9 @@ Authors: Michela Negro, Haocheng Zhang, Niccolò Di Lalla, Slavko Bogdanov, Zora
 我们利用成像X射线偏振探测卫星（IXPE）首次对一颗 redback 毫秒脉冲星双星系统 \src 进行了X射线偏振观测。Redback 是一种致密双星系统，其中由自转驱动的毫秒脉冲星通过双星间激波与一颗非简并伴星相互作用，这类系统为研究脉冲星风与相对论性激波物理提供了理想的实验室，在其中有序磁场与粒子加速共同决定了观测到的辐射特性。我们开展了光谱-偏振联合分析，将IXPE数据与已有的Chandra、XMM-Newton、NuSTAR 和 Swift观测资料相结合。我们考察了两种极端的磁场构型——平行于大尺度流动和垂直于大尺度流动，并利用 {\tt 3DPol} 辐射输运代码模拟其预期的偏振特征。为了解决这些模型所预测的偏振角随轨道相位快速旋转的问题，我们提出了一种相位相关的Stokes参数对齐方法，该方法在修正相位旋转的偏振角的同时保持偏振度不变。我们还设计了一种新的最大似然拟合策略，通过最小化偏振度的不确定性来确定偏振角的相位依赖性。该技术提示该双星可能相对于天球北极呈顺时针方向旋转。
 
 在IXPE数据中，我们未发现显著的偏振信号，在99%置信水平下偏振度（PD）上限为51%。我们的结果排除了在最亮轨道相位区间由垂直磁场模型所预测的高偏振度情形。模拟结果显示，如果观测时间加倍，则有望探测到平行磁场构型。我们提出的偏振角旋转新方法同样适用于IXPE观测中的许多源，这些源的内在偏振角变化虽然事先未知，但严格呈周期性。
+
+## Sept 10
+### [Gamma-Ray Burst Polarimetry with the POLAR and POLAR-2 missions](https://arxiv.org/pdf/2509.06601v1)
+Authors: Nicolas De Angelis, Philipp Azzarello, Franck Cadoux, Kurt Dittrich, Yannick Favre, Jochen Greiner, Johannes Hulsman, Coralie Husi, Merlin Kole, Hancheng Li, Slawomir Mianowski, Gabriel Pelleriti, Agnieszka Pollo, Nicolas Produit, Dominik Rybka, Jianchao Sun, Xin Wu, Shuang-Nan Zhang
+
+伽马射线暴（Gamma-Ray Bursts, GRBs）是宇宙中最强大、最剧烈的爆发现象之一。尽管对这一瞬变源的观测已持续了半个多世纪，但其本质及相关的物理辐射机制仍存在许多未解之谜。理论上认为，对GRB prompt 伽马射线辐射的偏振测量有望回答其中大部分问题。然而，早期的偏振测量由于统计显著性有限，未能得出明确结论。为了更好地刻画GRB prompt 辐射的偏振特性，一个紧凑型伽马射线偏振仪——POLAR——被搭载至中国“天宫二号”空间实验室，并于2016年9月起开展为期6个月的在轨观测。该仪器共探测到55个GRB以及若干脉冲星。对其中14个最亮GRB的时间积分偏振分析结果显示，其prompt辐射的偏振度很低，甚至可能完全无偏振。然而，时间分辨分析则揭示出在单个脉冲内存在偏振角随时间演化的强烈迹象，这会在时间积分的分析中抹去偏振信号。另一方面，由于统计量受限，能量分辨的偏振分析未能得到有约束力的结果。因此，需要一台更高灵敏度的$\gamma$射线偏振仪，才能对GRB prompt 辐射开展详细的能量分辨与时间分辨偏振研究。基于POLAR任务的成功经验，一个更大规模的仪器——POLAR-2——已获批准，将于2027年发射至中国空间站（CSS），由瑞士、中国、波兰和德国的科研团队联合研制。得益于其在20–800 keV范围内的高灵敏度，POLAR-2预计每年将获得至少50个GRB的偏振测量，其精度不低于POLAR的最佳成果，从而能够开展高质量的时间分辨和能量分辨偏振分析。
