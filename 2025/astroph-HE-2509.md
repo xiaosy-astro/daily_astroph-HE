@@ -36,3 +36,11 @@ Authors: Michela Negro, Haocheng Zhang, Niccolò Di Lalla, Slavko Bogdanov, Zora
 Authors: Nicolas De Angelis, Philipp Azzarello, Franck Cadoux, Kurt Dittrich, Yannick Favre, Jochen Greiner, Johannes Hulsman, Coralie Husi, Merlin Kole, Hancheng Li, Slawomir Mianowski, Gabriel Pelleriti, Agnieszka Pollo, Nicolas Produit, Dominik Rybka, Jianchao Sun, Xin Wu, Shuang-Nan Zhang
 
 伽马射线暴（Gamma-Ray Bursts, GRBs）是宇宙中最强大、最剧烈的爆发现象之一。尽管对这一瞬变源的观测已持续了半个多世纪，但其本质及相关的物理辐射机制仍存在许多未解之谜。理论上认为，对GRB prompt 伽马射线辐射的偏振测量有望回答其中大部分问题。然而，早期的偏振测量由于统计显著性有限，未能得出明确结论。为了更好地刻画GRB prompt 辐射的偏振特性，一个紧凑型伽马射线偏振仪——POLAR——被搭载至中国“天宫二号”空间实验室，并于2016年9月起开展为期6个月的在轨观测。该仪器共探测到55个GRB以及若干脉冲星。对其中14个最亮GRB的时间积分偏振分析结果显示，其prompt辐射的偏振度很低，甚至可能完全无偏振。然而，时间分辨分析则揭示出在单个脉冲内存在偏振角随时间演化的强烈迹象，这会在时间积分的分析中抹去偏振信号。另一方面，由于统计量受限，能量分辨的偏振分析未能得到有约束力的结果。因此，需要一台更高灵敏度的$\gamma$射线偏振仪，才能对GRB prompt 辐射开展详细的能量分辨与时间分辨偏振研究。基于POLAR任务的成功经验，一个更大规模的仪器——POLAR-2——已获批准，将于2027年发射至中国空间站（CSS），由瑞士、中国、波兰和德国的科研团队联合研制。得益于其在20–800 keV范围内的高灵敏度，POLAR-2预计每年将获得至少50个GRB的偏振测量，其精度不低于POLAR的最佳成果，从而能够开展高质量的时间分辨和能量分辨偏振分析。
+
+### [The full jet production cycle observed during fast state transitions in the black hole X-ray binary MAXI J1348–630](https://arxiv.org/pdf/2509.06487v1)
+
+Authors: Francesco Carotenuto, Liang Zhang, Diego Altamirano, Piergiorgio Casella, Stéphane Corbel, James C. A. Miller-Jones
+
+黑洞X射线双星（Black hole X-ray binaries, BH XRBs）在其明亮的爆发阶段会喷射出强有力的相对论性喷流。这些外流的性质在不同的光谱/吸积状态之间发生显著变化：在硬态中可观测到准直的致密喷流，而在软态中则会被抑制；离散喷射主要发生在由硬态向软态过渡的过程中。目前，我们仍不清楚是什么机制触发了致密喷流的形成与消失，以及离散喷射的发射。在这一背景下，如果能够在喷流的演化与X射线辐射特性（如快速变异性）之间找到唯一的联系，将标志着我们在理解驱动BH XRBs相对论性外流的基本机制上取得了重大进展。
+
+在本文中，我们展示了在BH XRB MAXI J1348$-$630 的一次主要处于软态的阶段中，观测到一次短暂但强烈的射电再增亮现象，该现象与NICER于2019年探测到的X射线均方根（rms）变异性显著增强同时发生。在这一阶段，X射线变异性表现出明显变化，与此同时，MAXI J1348$-$630喷射出两对相对论性离散喷流，分别由MeerKAT与ATCA射电干涉阵列探测到。我们提出，在该源短暂回到硬-中间态的过程中，致密喷流被重新激活，并在离散喷射发生前被关闭，这种现象在此类系统中极为罕见。有趣的是，尽管我们的射电与X射线观测存在覆盖空缺，我们仍然提出一种初步的对应关系：离散喷射的发生或与X射线rms变异性的下降相关，而其他典型的与离散喷射相关的X射线特征却未被探测到。我们讨论了这些结果如何为理解BH XRBs中喷流与热冠之间复杂而动态的耦合关系提供新的见解。
