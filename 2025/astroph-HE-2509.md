@@ -107,10 +107,15 @@ Authors: Ketan Rikame, Biswajit Paul, Rahul Sharma, V. Jithesh
 
 摘要：在中子星低质量X 射线双星（LMXB）系统中观测到的热核X 射线暴的初级辐射可以与双星系统的不同部分相互作用。这种相互作用会在不同波长范围内产生次级辐射，即再处理辐射。在掩食型LMXB中，掩食期间可以研究暴发的再处理辐射，因为此时初级辐射被遮挡，只有再处理辐射可见。我们在RXTE档案数据中搜索掩食期间的暴发，并在EXO 0748-676和XTE J1710-281中发现了此类事件。在EXO 0748-676中，有7次暴发发生在接近掩食出食的位置，其尾部延伸到掩食之外；在XTE J1710-281中也发现了1次类似的暴发。我们通过对两套系统中这种尾部延伸出掩食的特殊掩食暴进行建模，估算了在接近掩食出食轨道相位处的再处理比例。结果表明，随着掩食暴发生位置越接近出食点，再处理比例呈现增加趋势。我们讨论了EXO 0748-676和XTE J1710-281中伴星剥蚀风、吸积盘以及盘风对再处理的可能贡献。此外，我们在EXO 0748-676的暴发中观测到两个衰减成分，可能提示吸积燃料具有复杂成分。通过暴发上升时标，我们对两套系统中再处理区域的尺度给出了上限，发现其大小与各自X 射线双星系统的尺度相当。
 
-### Sept 19
+## Sept 19
 
 ### [Nessie: A Rust-Powered, Fast, Flexible, and Generalized Friends-of-Friends Galaxy-Group Finder in R and Python.](https://arxiv.org/pdf/2509.13647v1)
 
 Authors: Trystan S. Lambert, A. S. G. Robotham, M. Bravo, C. del P. Lagos, R. Tobar, S. Driver, A. Aufan Stoffels d'Hautefort
 
 摘要：我们介绍了 Nessie，一种用 Rust 实现的星系团寻找器，并以 Python 和 R 包的形式发布。Nessie 采用朋友-朋友（FoF）算法，只需天空位置和红移作为输入，因此可以直接应用于缺乏明确光度函数的巡天。我们实现了多种算法优化，包括二分查找和 k-d 树预筛选，这些方法通过减少不必要的星系对比，大幅提升了性能。为验证 Nessie 的准确性，我们利用一套 GALFORM 模拟光锥对其参数进行调优，并获得了较高的优值指标。我们进一步将其应用于 GAMA 和 SDSS 巡天，结果表明其生成的星系团目录与已有文献一致。同时，Nessie 还包含与模拟和模拟目录比较的附加功能。在一台标准的 MacBook Pro（M3 芯片，11 核）上进行基准测试表明，Nessie 1.0 版本能够在约 10 秒内处理约 100 万个星系，突显了其高效性以及对下一代红移巡天的适用性。
+
+### [Scientific Objectives of the Xue-shan-mu-chang 15-meter Submillimeter Telescope](https://arxiv.org/pdf/2509.13983v1)
+Authors: XSMT Project Collaboration Group, Yiping Ao, Jin Chang, Zhiwei Chen, Xiangqun Cui, Kaiyi Du, Fujun Du, Yan Gong, Zhanwen Han, Gregory Herczeg, Luis C. Ho, Jie Hu, Yipeng Jing, Sihan Jiao, Binggang Ju, Jing Li, Xiaohu Li, Xiangdong Li, Lingrui Lin, Zhenhui Lin, Daizhong Liu, Dong Liu, Guoxi Liu, Zheng Lou, Dengrong Lu, Ruiqing Mao, Wei Miao, Yuan Qian, Keping Qiu, Zhiqiang Shen, Yong Shi, Shengcai Shi, Chenggang Shu, Jixian Sun, Xiaohui Sun, Yichen Sun, Junzhi Wang, Ke Wang, Na Wang, Ran Wang, Tao Wang, Jingwen Wu, Xiangping Wu, Xuefeng Wu, Di Xiao, Qijun Yao, Yong Yao, Wen Zhang, Xuguo Zhang, Zhiyu Zhang, Yuanpeng Zheng
+
+摘要：亚毫米波天文学有望通过揭示在光学和近红外观测中被隐藏的宇宙现象，特别是与星际尘埃、分子气体和恒星形成相关的过程，彻底革新我们对宇宙的理解。即将在中国青海海拔 4813 米的优质高原台址建造的雪山牧场 15 米亚毫米波望远镜（XSMT-15m），是中国天文学的重要里程碑，它将成为中国大陆首个自主建设的世界级亚毫米波设施。XSMT-15m 配备最先进的科学仪器，将聚焦于多个前沿科学问题，涵盖河外天文学、银河系结构、时域天体物理和天体化学等领域。通过与现有及未来天文台的协同观测，XSMT-15m 将揭示星系的形成与演化，剖析塑造星际介质的物理与化学过程，并探索亚毫米波波段的瞬变现象。这些能力将推动我们在河外天文学、银河生态学、天体化学和时域天体物理等方向的理解，开启中国乃至整个北半球亚毫米波研究的新纪元。
