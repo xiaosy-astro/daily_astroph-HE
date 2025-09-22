@@ -125,4 +125,12 @@ Authors: XSMT Project Collaboration Group, Yiping Ao, Jin Chang, Zhiwei Chen, Xi
 
 Authors: Shifra Mandel (1), Kaya Mori (1), Anna Ciurlo (2), Paul A. Draghis (3), Noa Grollimund (4), Gaurava K. Jaisawal (5), Chichuan Jin (6), Benjamin Levin (1), Lorenzo Marra (7), Eric Miao (1), Maxime Parra (8), Mark Reynolds (9), Sean A. Granados (2), Matteo Bachetti (10), Fiamma Capitanio (7), Nathalie Degenaar (11), Charles J. Hailey (1), JaeSub Hong (12), Sara Motta (13), Gabriele Ponti (13), Michael M. Shara (14), Megumi Shidatsu (8), John A. Tomsick (15), Randall Campbell (16), Stéphane Corbel (4), Rob Fender (17), Andrea Ghez (2), Jonathan Grindlay (12), Matthew W. Hosek Jr. (2), Kai Matsunaga (18), Romana Mikušincová (7), Melania Nynka (3), Grace Sanger-Johnson (19), Giovanni Stel (13), Antonella Tarana (7), Rudy Wijnands (11), Shuo Zhang (19)
 
+
 近十年来首次，在银河系的中心秒差距 (pc) 区域探测到一个新的明亮瞬变源。MAXI J1744-294 在 2025 年 1 月之前从未观测到爆发。我们报告了对这一神秘源的宽波段、多波段研究结果，包括 NuSTAR、Chandra、XMM-Newton、Swift 和 NICER X 射线望远镜的数据，以及配套的射电和近红外观测。我们发现 MAXI J1744-294 在 2025 年最初几个月始终保持在明亮/软态。2025 年 4 月观测到谱硬化，随后辐射通量下降。基于该源的光谱和时间特性，我们将 MAXI J1744-294 识别为候选黑洞 (BH) 低质量 X 射线双星 (LMXB)——这是在距离银河系超大质量黑洞 Sgr A* 投影距离一秒差距范围内发现的第四个候选黑洞瞬变源。这一发现进一步支持了此前观测工作和解析、理论研究所提出的观点，即在银河系中心秒差距区域存在黑洞–低质量 X 射线双星的密集分布。我们的多波段研究涵盖了不同爆发状态，并结合了多种观测手段，可为未来的时域天体物理研究提供范例。
+
+
+### [First Detection of X-ray Polarization and Its Short-term Increase Pre- and Post-Eclipse in HMXB 4U 1700-377](https://arxiv.org/pdf/2509.14494v1)
+
+Authors: Kaito Ninoyu, Keisuke Uchiyama, Shinya Yamada, Ryota Hayakawa, Shunji Kitamoto, Nao Kominato, Takayoshi Kohmura, Misaki Mizumoto, Yuusuke Uchida, Toru Tamagawa, Ryota Tomaru, Seoru Ito
+
+摘要：我们报告了利用成像X射线偏振探测器 (IXPE) 对高质量X射线双星 (HMXB) 4U 1700-377 进行观测时，首次获得的具有统计学显著性的X射线偏振探测结果。在 5 keV 以上探测到超过 10% 的偏振度，这一数值位列迄今HMXB中观测到的最高偏振之一。此次观测覆盖了该双星系统的整个轨道周期，在此期间探测到若干零星且瞬时的耀发。我们发现偏振度与轨道相位之间存在明显相关性：在食前和食后偏振度最高，可在数十千秒的时间内超过 20%。这些结果表明，导致所观测到偏振的散射介质空间上局限于致密天体与O型伴星之间，可能是由恒星风的大尺度不均匀性及其与致密天体辐射的相互作用所形成。我们同时探讨了盘风和轨道反射在偏振变化中的作用。尽管这两种机制均对偏振有所贡献，但在食前和食后偏振显著增强的现象无法仅通过这些模型完全解释，提示可能存在额外因素的参与。IXPE观测到的X射线偏振特性为理解4U 1700-377的吸积过程、X射线辐射以及恒星风结构提供了新的见解，推动了我们对其复杂环境及其中致密天体本质的认识。
