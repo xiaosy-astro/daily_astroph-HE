@@ -120,7 +120,7 @@ Authors: XSMT Project Collaboration Group, Yiping Ao, Jin Chang, Zhiwei Chen, Xi
 
 摘要：亚毫米波天文学有望通过揭示在光学和近红外观测中被隐藏的宇宙现象，特别是与星际尘埃、分子气体和恒星形成相关的过程，彻底革新我们对宇宙的理解。即将在中国青海海拔 4813 米的优质高原台址建造的雪山牧场 15 米亚毫米波望远镜（XSMT-15m），是中国天文学的重要里程碑，它将成为中国大陆首个自主建设的世界级亚毫米波设施。XSMT-15m 配备最先进的科学仪器，将聚焦于多个前沿科学问题，涵盖河外天文学、银河系结构、时域天体物理和天体化学等领域。通过与现有及未来天文台的协同观测，XSMT-15m 将揭示星系的形成与演化，剖析塑造星际介质的物理与化学过程，并探索亚毫米波波段的瞬变现象。这些能力将推动我们在河外天文学、银河生态学、天体化学和时域天体物理等方向的理解，开启中国乃至整个北半球亚毫米波研究的新纪元。
 
-### Sept 23
+### Sept 22
 ### [A multiwavelength study of the new Galactic center black hole candidate MAXI J1744-294](https://arxiv.org/pdf/2509.14465)
 
 Authors: Shifra Mandel (1), Kaya Mori (1), Anna Ciurlo (2), Paul A. Draghis (3), Noa Grollimund (4), Gaurava K. Jaisawal (5), Chichuan Jin (6), Benjamin Levin (1), Lorenzo Marra (7), Eric Miao (1), Maxime Parra (8), Mark Reynolds (9), Sean A. Granados (2), Matteo Bachetti (10), Fiamma Capitanio (7), Nathalie Degenaar (11), Charles J. Hailey (1), JaeSub Hong (12), Sara Motta (13), Gabriele Ponti (13), Michael M. Shara (14), Megumi Shidatsu (8), John A. Tomsick (15), Randall Campbell (16), Stéphane Corbel (4), Rob Fender (17), Andrea Ghez (2), Jonathan Grindlay (12), Matthew W. Hosek Jr. (2), Kai Matsunaga (18), Romana Mikušincová (7), Melania Nynka (3), Grace Sanger-Johnson (19), Giovanni Stel (13), Antonella Tarana (7), Rudy Wijnands (11), Shuo Zhang (19)
