@@ -134,3 +134,11 @@ Authors: Shifra Mandel (1), Kaya Mori (1), Anna Ciurlo (2), Paul A. Draghis (3),
 Authors: Kaito Ninoyu, Keisuke Uchiyama, Shinya Yamada, Ryota Hayakawa, Shunji Kitamoto, Nao Kominato, Takayoshi Kohmura, Misaki Mizumoto, Yuusuke Uchida, Toru Tamagawa, Ryota Tomaru, Seoru Ito
 
 摘要：我们报告了利用成像X射线偏振探测器 (IXPE) 对高质量X射线双星 (HMXB) 4U 1700-377 进行观测时，首次获得的具有统计学显著性的X射线偏振探测结果。在 5 keV 以上探测到超过 10% 的偏振度，这一数值位列迄今HMXB中观测到的最高偏振之一。此次观测覆盖了该双星系统的整个轨道周期，在此期间探测到若干零星且瞬时的耀发。我们发现偏振度与轨道相位之间存在明显相关性：在食前和食后偏振度最高，可在数十千秒的时间内超过 20%。这些结果表明，导致所观测到偏振的散射介质空间上局限于致密天体与O型伴星之间，可能是由恒星风的大尺度不均匀性及其与致密天体辐射的相互作用所形成。我们同时探讨了盘风和轨道反射在偏振变化中的作用。尽管这两种机制均对偏振有所贡献，但在食前和食后偏振显著增强的现象无法仅通过这些模型完全解释，提示可能存在额外因素的参与。IXPE观测到的X射线偏振特性为理解4U 1700-377的吸积过程、X射线辐射以及恒星风结构提供了新的见解，推动了我们对其复杂环境及其中致密天体本质的认识。
+
+
+## Sept 24
+### [Reverberation lags viewed in hard X-rays from an accreting stellar-mass black hole](https://arxiv.org/pdf/2509.16608v1)
+
+Authors: Bei You, Wei Yu, Adam Ingram, Barbara De Marco, Jin-Lu Qu, Zong-Hong Zhu, Andrea Santangelo, Sai-En Xu
+
+摘要：吸积黑洞被认为以盘和一种在X射线波段强烈发光的高温等离子体云（称为日冕）的形式吞噬物质。X射线发射区过于微小，无法直接成像，但可以通过测量由物质向黑洞传播以及日冕X射线在盘上反射并形成回响滞后所导致的时间延迟，利用X射线信号的快速变化来推断其几何结构。回响滞后可通过特征性的光谱特征识别出来，包括约6.4 keV的铁发射线和峰值约30 keV的宽康普顿凸起。这些回响特征此前已在少数活动星系核（AGN）中的超大质量黑洞中被探测到。然而，由于恒星质量黑洞比超大质量黑洞小一百多万倍，从恒星质量黑洞中探测回响滞后要困难得多。此前针对X射线双星系统中恒星质量黑洞的回响滞后测量因此仅限于能量低于10 keV的范围。在此，我们报告了首次在X射线双星中探测到康普顿凸起回响特征，这是通过在约1–150 keV的宽能段中测量滞后来实现的。同时探测到的铁线特征确认了X射线回响的情景，并强有力地表明AGN和X射线双星中的吸积流是由一种普遍存在的过程所支配的。回响滞后仅在最快的变化中才十分显著，而较慢变化中的滞后通常归因于传播的质量吸积率扰动。我们迄今为止延伸至最高能量的滞后测量显示，这种较慢变化中的滞后会在天级时间尺度上发生显著演化。
