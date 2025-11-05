@@ -1,4 +1,4 @@
-## Nov 4
+## Nov 5
 
 ### [The Advanced X-ray Imaging Satellite Community Science Book](https://arxiv.org/abs/2511.00253)
 
