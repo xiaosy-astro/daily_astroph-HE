@@ -36,3 +36,23 @@ AXIS将开启现代天体物理学的新窗口，为下一代X射线天文学奠
 
 ### Conclusion
 EP241107a很可能起源于伽马射线暴，其喷流参数与其他已知伽马射线暴相似，这有助于理解快速X射线暂现源的物理本质。
+
+
+
+## Nov 6
+
+### [A continuous transition from Type-C Quasi Periodic Oscillations to the Heartbeat state in the Black hole X-ray binary 4U 1630-47](https://arxiv.org/abs/2511.01883)
+### Summary
+利用AstroSat观测首次捕捉到黑洞X射线双星4U 1630-47从3-5Hz的C型准周期振荡状态到40秒调制周期的心跳状态的快速转变，揭示了QPO特征消失的独特现象。
+
+### Motivation
+研究黑洞X射线双星4U 1630-47中罕见的从准周期振荡状态到心跳状态的快速转变过程，为理解吸积机制提供新的观测证据。
+
+### Method
+使用AstroSat在2023年3月10-19日的观测数据，分析功率密度谱、硬度-强度图和功率颜色图的变化特征。
+
+### Result
+在不到一天内，源从3-5Hz的C型QPO状态转变为25mHz的心跳状态，QPO特征在转变过程中逐渐减弱并最终消失，在功率颜色图中显示出明显的空间分离。
+
+### Conclusion
+4U 1630-47是继GRS 1915+105之后第二个观测到从QPO到心跳状态连续转变的系统，且是唯一在心跳状态下QPO消失的系统，为理解BHXRB吸积机制提供了新线索。
