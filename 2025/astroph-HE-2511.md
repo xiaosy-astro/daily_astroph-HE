@@ -97,3 +97,26 @@ EP241107a很可能起源于伽马射线暴，其喷流参数与其他已知伽�
 
 ### Conclusion
 AT2019wey在低光度硬态下表现出复杂的盘-冕结构，支持质量吸积率波动传播模型和热再处理效应。
+
+
+
+
+## Nov 17
+
+### [Disk warping and black hole X-ray binaries I. Tentative unification of low-frequency quasi-periodic oscillations](https://arxiv.org/abs/2511.10474)
+
+### Summary
+该论文研究了X射线双星中准周期振荡(QPOs)的产生机制，认为广义相对论中的参考系拖拽效应可能导致吸积盘几何扭曲，从而解释QPO类型在状态转变期间的演化
+
+
+### Motivation
+目前对X射线双星中宽带噪声(BBN)和准周期振荡(QPOs)的产生机制尚无共识，许多研究者认为QPOs可能由Lense-Thirring力矩引起的参考系拖拽效应产生。本文旨在研究这种参考系拖拽效应对吸积盘本身及其观测变异性的影响。
+
+### Method
+通过分析估计评估状态转变期间内吸积盘中几何扭曲的潜在存在，并分析扭曲如何改变光谱-时间特性。
+
+### Result
+研究表明吸积盘扭曲的存在可以以与观测到的爆发期间QPO类型转变相匹配的方式改变光谱-时间特性，并为Cyg X-1的特殊情况以及硬到软状态转变可能由扭曲本身驱动提供解释。
+
+### Conclusion
+扭曲的预期出现为状态转变期间BBN和QPO特性的演化提供了一致的解释，为统一黑洞X射线双星的变异性提供了第一条路径。
