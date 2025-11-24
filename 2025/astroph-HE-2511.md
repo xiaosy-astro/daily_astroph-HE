@@ -140,3 +140,26 @@ AT2019wey在低光度硬态下表现出复杂的盘-冕结构，支持质量吸�
 
 ### Conclusion
 Cygnus X-1在2022年5月表现出具有不同光学深度的双康普顿化冕辐射，其中硬组分具有夹层板状几何结构。偏振度受黑洞和冕的其他参数影响。
+
+
+
+
+
+
+
+### [Aql X-1 from dawn 'til dusk: the early rise, fast state transition and decay of its 2024 outburst](https://arxiv.org/abs/2511.16437)
+### Summary
+EP卫星首次在Aql X-1爆发早期阶段（光度低于10^35 erg/s）探测到X射线活动，通过多波段观测发现X射线爆发比光学爆发最多延迟3天，并观测到约12小时的快速硬态到软态转变。
+
+### Motivation
+研究LMXBs爆发早期阶段的特性，特别是X射线和光学辐射的时间关系以及吸积流几何结构的演化。
+
+### Method
+使用EP、NICER、NuSTAR、Swift和Las Cumbres天文台的多波段观测数据，结合时间分辨X射线光谱分析。
+
+
+### Results
+发现X射线爆发比光学爆发最多延迟3天；观测到约12小时的快速状态转变；在状态转变时可能形成了边界层和扩展层。
+### Conclusion
+这些结果为理解吸积中子星和黑洞的爆发演化和状态转变时间尺度提供了重要线索。
+
