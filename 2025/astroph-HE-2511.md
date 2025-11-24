@@ -120,3 +120,23 @@ AT2019wey在低光度硬态下表现出复杂的盘-冕结构，支持质量吸�
 
 ### Conclusion
 扭曲的预期出现为状态转变期间BBN和QPO特性的演化提供了一致的解释，为统一黑洞X射线双星的变异性提供了第一条路径。
+
+
+
+## Nov 24
+
+### [Constraining the Corona Geometry of Cyg X-1 with Broad Band Spectrum and Polarimetric Analysis Based on Observations in May 2022](https://arxiv.org/abs/2511.16246)
+### Summary
+通过重新分析Cygnus X-1在2022年低硬态时的IXPE、NuSTAR和NICER数据，发现双康普顿化组分模型比单组分模型更符合观测。降低盘光子温度至约0.15 keV可增加偏振度约2个百分点，但仍低于观测值。研究支持硬康普顿化组分具有夹层板状几何结构.
+
+
+### Motivation
+解释IXPE观测到的Cygnus X-1偏振度比理论预期高约4倍的现象，并探究其高偏振度的物理机制。
+
+### Method
+使用IXPE、NuSTAR和NICER数据进行联合分析，研究光谱的时间变异性，比较单/双康普顿化组分模型，并通过详细模拟研究不同几何结构（板状、楔形）对偏振的影响。
+### Result
+发现双康普顿化组分模型能更好地再现数据，盘光子温度约为0.15 keV。模拟显示降低盘温度可使偏振度增加约2个百分点，但模拟值仍显著低于观测值。板状几何结构预测的偏振特性与观测一致。
+
+### Conclusion
+Cygnus X-1在2022年5月表现出具有不同光学深度的双康普顿化冕辐射，其中硬组分具有夹层板状几何结构。偏振度受黑洞和冕的其他参数影响。
