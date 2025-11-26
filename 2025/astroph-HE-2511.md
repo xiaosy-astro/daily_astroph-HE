@@ -163,3 +163,19 @@ EP卫星首次在Aql X-1爆发早期阶段（光度低于10^35 erg/s）探测到
 ### Conclusion
 这些结果为理解吸积中子星和黑洞的爆发演化和状态转变时间尺度提供了重要线索。
 
+
+## Nov 26
+
+### [𝙴𝚗𝚝𝚒𝚝𝚢  -- Hardware-agnostic Particle-in-Cell Code for Plasma Astrophysics. II: General Relativistic Module](https://arxiv.org/abs/2511.17701)
+### Summary
+
+开发了第一个开源、坐标系无关、性能可移植的广义相对论粒子网格代码Entity，用于模拟黑洞周围碰撞等离子体
+### Motivation
+黑洞环境中的等离子体通常是完全碰撞的或包含固有碰撞区域，包括相对论喷流和日冕，其中粒子能量化普遍存在。捕捉这些系统的物理需要能够模拟强引力场中相对论、磁化、碰撞等离子体的数值方法
+### Method
+开发了广义相对论模块Entity，这是一个开源、坐标系无关、性能可移植的粒子网格代码，能够在任何现代高性能计算架构（GPU和CPU）上快速进行轴对称模拟
+### Result
+成功创建了能够模拟黑洞周围碰撞等离子体的数值模拟工具
+
+### Conclusion
+Entity代码为研究黑洞环境中碰撞等离子体物理提供了强大的数值模拟能力，填补了现有方法的空白
