@@ -179,3 +179,19 @@ EP卫星首次在Aql X-1爆发早期阶段（光度低于10^35 erg/s）探测到
 
 ### Conclusion
 Entity代码为研究黑洞环境中碰撞等离子体物理提供了强大的数值模拟能力，填补了现有方法的空白
+
+
+
+### [Entity -- Hardware-agnostic Particle-in-Cell Code for Plasma Astrophysics. I: Curvilinear Special Relativistic Module](https://arxiv.org/abs/2511.17710)
+### Summary
+Entity是一个新一代全开源粒子网格(PIC)代码，通过Kokkos库实现跨GPU/CPU架构的硬件无关性能可移植性，首次在广义坐标系中求解Vlasov-Maxwell系统，提供坐标无关框架。
+
+### Motivation
+克服天体物理等离子体建模中的关键限制，特别是极端尺度分离问题，以及适应不断发展的GPU中心计算基础设施的性能挑战。
+### Method
+在全局正交笛卡尔基中求解粒子运动方程，使用保形电流的特殊电流沉积技术确保电荷守恒，支持笛卡尔、轴对称球面和准球面网格等广义坐标。
+### Result
+在主要GPU平台(AMD MI250X、NVIDIA A100、Intel Max Series)上展现出强大的可扩展性和性能可移植性，3D粒子推进器和电流沉积每粒子每时间步约2纳秒高效运行。
+
+### Conclusion
+Entity通过标准笛卡尔等离子体测试和相对论磁层在曲线轴对称几何中的精确建模验证了其功能，为天体物理等离子体模拟提供了强大且可扩展的工具。
