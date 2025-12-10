@@ -12,6 +12,23 @@
 
 ### Conclusion
 
+## Dec 9
+### [Evolution of the Inner Accretion Flow in Swift J1727.8$-$1613 across Intermediate States: Insights from Broadband Spectral and Timing Analysis](https://arxiv.org/abs/2512.05544)
+
+### Summary
+对黑洞X射线双星Swift J1727.8-1613在2023年爆发期间中间态的多波段观测研究，揭示了硬中间态需要双康普顿化区域模型，而软中间态只需单区域模型，表明盘-冕几何结构在状态间显著演化。
+
+### Motivation
+研究新发现的黑洞X射线双星Swift J1727.8-1613在2023年爆发期间的中间态特性，以理解其吸积盘-冕几何结构的演化，并约束黑洞的基本参数（质量、自旋、倾角）。
+### Method
+使用NICER、NuSTAR、AstroSat和Insight-HXMT等多任务观测数据，进行宽带光谱（最高78 keV）和时变分析。通过反射建模和盘连续谱拟合研究几何结构，利用准周期振荡频率变化验证演化过程。
+### Result
+硬中间态需要双康普顿化区域模型，软中间态只需单区域模型；硬X射线尾部（>100 keV）表明电子分布为混合型（热+幂律）；盘在硬中间态被截断，在软中间态接近最内稳定圆轨道；估计黑洞质量10.5^{+7.7}_{-3.0} M☉，自旋0.79^{+0.03}_{-0.13}，倾角42°-50°，距离约3.5 kpc；盘弱变而康普顿化成分高度变化。
+
+### Conclusion
+Swift J1727.8-1613在中间态演化中表现出显著的盘-冕几何结构变化：从硬中间态的双康普顿化区域和截断盘，到软中间态的单区域和接近最内稳定圆轨道的盘。黑洞参数与先前测量一致，证实了该源作为中等质量黑洞候选者的特性。
+
+
 ## Dec 10
 
 ### [EP241217a: a likely Type II GRB with an achromatic bump at z = 4.59](https://arxiv.org/abs/2512.07233)
