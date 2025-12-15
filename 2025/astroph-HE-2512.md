@@ -83,3 +83,21 @@ EP241217a红移为4.59，可能是一个E_{γ,iso}≲10^{53} erg的典型II型�
 
 ### Conclusion
 该磁星表现出的持久高温、缩小热点、长期高通量平台期后快速衰减等特征，对现有爆发机制理论提出了挑战，需要新的理论解释这些观测现象。
+
+
+## Dec 15
+### [nDspec: a new Python library for modelling multi-dimensional datasets in X-ray astronomy](https://arxiv.org/abs/2512.10615)
+
+### Summary
+nDspec是一个新的Python库，用于建模X射线天文中的一维和多维数据集，支持时间平均数据和傅里叶谱时序分析
+
+### Motivation
+当前X射线望远镜产生了丰富的多维数据（时间、光子能量、偏振），但物理理解的进展需要同时研究这些多维度。需要新的理论模型、分析方法和软件框架来有效结合数据、模型和方法。
+### Method
+开发nDspec Python库，设计用于建模X射线天文中的一维和多维数据集。alpha版本专注于时间平均数据和傅里叶谱时序模式，但架构支持添加其他维度。
+### Result
+成功开发了nDspec alpha版本，展示了通过NICER观测黑洞X射线双星的特征分析用例。库支持多维数据集建模，并规划扩展到其他维度和新功能。
+
+### Conclusion
+
+nDspec为X射线天文的多维研究提供了新的软件框架，支持同时分析时间、能量和偏振等多个维度，有助于推进对X射线源的物理理解。
