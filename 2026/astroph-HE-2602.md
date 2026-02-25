@@ -1,5 +1,5 @@
-## Feb 25
-
+## Feb 17
+记录于2月25日
 ### [The Role of Faraday Rotation in the Polarization of the X-rays from Magnetically Powered Black Hole Coronas](https://arxiv.org/abs/2602.12411)
 ### Summary
 该论文通过分析黑洞X射线双星硬态下的X射线偏振观测，约束了磁重联等磁能耗散机制所需的冕区磁场强度，并讨论了法拉第旋转在活动星系核X射线偏振中的作用。
