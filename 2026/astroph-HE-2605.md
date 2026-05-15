@@ -14,7 +14,7 @@ X射线偏振测量提供了新的高能天体观测手段，偏振分数和角�
 X射线偏振是研究高能天体的重要新工具，能够揭示吸积流结构和磁场等关键信息。
 
 ## May 15
-[Polarization Signatures from GRMHD Simulations of Black Hole Accretion](https://arxiv.org/abs/2605.15166)
+### [Polarization Signatures from GRMHD Simulations of Black Hole Accretion](https://arxiv.org/abs/2605.15166)
 ### Summary
 本章回顾了从广义相对论磁流体动力学（GRMHD）吸积盘模拟中提取极化特征的研究进展，重点探讨X射线偏振测量与吸积模拟结合如何帮助理解黑洞/中子星吸积盘、冕和喷流的性质，并展望了该领域的未来方向。
 ### Motivation
