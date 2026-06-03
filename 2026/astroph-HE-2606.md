@@ -1,6 +1,6 @@
 ## Jun 03
 
-### [axonomy of High Mass X-ray binaries from a historical perspective](https://arxiv.org/abs/2606.03550)
+### [Taxonomy of High Mass X-ray binaries from a historical perspective](https://arxiv.org/abs/2606.03550)
 ### Summary
 本文综述了高质量X射线双星（HMXBs）50年来的研究进展，介绍了其分类、观测特征及作为天体物理实验室的重要性。
 ### Motivation
