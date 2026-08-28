@@ -14,7 +14,7 @@
 
 ## Jun 19
 
-###[Accreting stellar-mass black holes](https://arxiv.org/abs/2606.19952)
+### [Accreting stellar-mass black holes](https://arxiv.org/abs/2606.19952)
 
 ### Summary
 本文综述了恒星质量黑洞吸积过程的最新进展，涵盖连续谱、时变特性、发射线及X射线偏振，强调了吸积盘、冕与喷流之间的复杂相互作用，并指出了未来多波段、时变和偏振研究的重要性。
